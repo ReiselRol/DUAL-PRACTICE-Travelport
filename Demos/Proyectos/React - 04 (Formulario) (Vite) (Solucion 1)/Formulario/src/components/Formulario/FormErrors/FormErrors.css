@@ -1,0 +1,13 @@
+.formularioErrors{
+    width: 26%;
+    height: auto;
+    padding: 0.5%;
+    margin-left: 40%;
+    margin-top: 1%;
+    border-radius: 15px;
+    background-image: linear-gradient(to bottom, rgb(255, 175, 175), rgb(238, 5, 5));
+    border: solid 3px rgba(172, 172, 172, 0.653);
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 20;
+}

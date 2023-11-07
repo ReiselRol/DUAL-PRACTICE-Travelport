@@ -1,0 +1,35 @@
+td.number-1 {
+color: blue;
+}
+
+td.number-2 {
+color: green;
+}
+
+td.number-3 {
+color: red;
+}
+
+td.number-4 {
+color: purple;
+}
+
+td.number-5 {
+color: orange;
+}
+
+td.number-6 {
+color: brown;
+}
+
+td.number-7 {
+color: teal;
+}
+
+td.number-8 {
+color: maroon;
+}
+
+td span {
+ display: inline-block;
+}

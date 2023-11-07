@@ -1,0 +1,18 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#30002e",
+        "notifications.background": "#30002e",
+        "activityBar.inactiveForeground": "#d7d7d7AA",
+        "activityBar.foreground": "#d7d7d7",
+        "notifications.foreground": "#d7d7d7",
+        "quickInput.background": "#30002e",
+        "quickInput.foreground": "#d7d7d7",
+        "list.hoverBackground": "#d7d7d7AA",
+        "titleBar.activeBackground": "#30002eC4",
+        "titleBar.activeForeground": "#d7d7d7",
+        "titleBar.inactiveBackground": "#30002e68",
+        "titleBar.inactiveForeground": "#d7d7d7"
+    },
+    "spectraCode.commandPaletteChange": true,
+    "spectraCode.menuBarChange": true
+}

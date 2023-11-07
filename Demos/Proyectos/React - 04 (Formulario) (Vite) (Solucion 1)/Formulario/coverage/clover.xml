@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1695108663485" clover="3.2.0">
+  <project timestamp="1695108663485" name="All files">
+    <metrics statements="126" coveredstatements="100" conditionals="48" coveredconditionals="36" methods="21" coveredmethods="17" elements="195" coveredelements="153" complexity="0" loc="126" ncloc="126" packages="4" files="6" classes="6"/>
+    <package name="Services.Formulario">
+      <metrics statements="20" coveredstatements="0" conditionals="9" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="IDservice.js" path="C:\Users\Reisel_Rol_7\Desktop\Todas las Carpetas\TravelPort\Intern\Proyectos\React - 04 (Formulario) (Vite) (Solucion 1)\Formulario\src\Services\Formulario\IDservice.js">
+        <metrics statements="20" coveredstatements="0" conditionals="9" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="4" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="7" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="16" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="19" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="27" count="0" type="cond" truecount="0" falsecount="2"/>
+      </file>
+    </package>
+    <package name="components.Formulario">
+      <metrics statements="31" coveredstatements="28" conditionals="4" coveredconditionals="3" methods="9" coveredmethods="7"/>
+      <file name="Formulario.jsx" path="C:\Users\Reisel_Rol_7\Desktop\Todas las Carpetas\TravelPort\Intern\Proyectos\React - 04 (Formulario) (Vite) (Solucion 1)\Formulario\src\components\Formulario\Formulario.jsx">
+        <metrics statements="31" coveredstatements="28" conditionals="4" coveredconditionals="3" methods="9" coveredmethods="7"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="8" count="24" type="stmt"/>
+        <line num="10" count="145" type="stmt"/>
+        <line num="11" count="145" type="stmt"/>
+        <line num="12" count="145" type="stmt"/>
+        <line num="13" count="145" type="stmt"/>
+        <line num="14" count="145" type="stmt"/>
+        <line num="15" count="145" type="stmt"/>
+        <line num="17" count="145" type="stmt"/>
+        <line num="18" count="71" type="cond" truecount="3" falsecount="1"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="20" count="71" type="stmt"/>
+        <line num="23" count="145" type="stmt"/>
+        <line num="24" count="5" type="stmt"/>
+        <line num="25" count="5" type="stmt"/>
+        <line num="26" count="5" type="stmt"/>
+        <line num="27" count="5" type="stmt"/>
+        <line num="28" count="5" type="stmt"/>
+        <line num="31" count="145" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="47" count="8" type="stmt"/>
+        <line num="61" count="7" type="stmt"/>
+        <line num="62" count="7" type="stmt"/>
+        <line num="75" count="3" type="stmt"/>
+        <line num="85" count="0" type="stmt"/>
+        <line num="96" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Formulario.FormErrors">
+      <metrics statements="11" coveredstatements="11" conditionals="12" coveredconditionals="12" methods="2" coveredmethods="2"/>
+      <file name="FormErrors.jsx" path="C:\Users\Reisel_Rol_7\Desktop\Todas las Carpetas\TravelPort\Intern\Proyectos\React - 04 (Formulario) (Vite) (Solucion 1)\Formulario\src\components\Formulario\FormErrors\FormErrors.jsx">
+        <metrics statements="11" coveredstatements="11" conditionals="12" coveredconditionals="12" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="145" type="stmt"/>
+        <line num="6" count="145" type="stmt"/>
+        <line num="7" count="145" type="stmt"/>
+        <line num="8" count="145" type="stmt"/>
+        <line num="9" count="145" type="stmt"/>
+        <line num="10" count="145" type="stmt"/>
+        <line num="11" count="145" type="stmt"/>
+        <line num="13" count="145" type="stmt"/>
+      </file>
+    </package>
+    <package name="customHooks">
+      <metrics statements="64" coveredstatements="61" conditionals="23" coveredconditionals="21" methods="9" coveredmethods="8"/>
+      <file name="useErrorFields.js" path="C:\Users\Reisel_Rol_7\Desktop\Todas las Carpetas\TravelPort\Intern\Proyectos\React - 04 (Formulario) (Vite) (Solucion 1)\Formulario\src\customHooks\useErrorFields.js">
+        <metrics statements="19" coveredstatements="19" conditionals="7" coveredconditionals="7" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="580" type="stmt"/>
+        <line num="5" count="580" type="stmt"/>
+        <line num="6" count="580" type="stmt"/>
+        <line num="7" count="580" type="stmt"/>
+        <line num="8" count="240" type="stmt"/>
+        <line num="9" count="240" type="cond" truecount="2" falsecount="0"/>
+        <line num="10" count="200" type="stmt"/>
+        <line num="11" count="200" type="stmt"/>
+        <line num="14" count="40" type="stmt"/>
+        <line num="15" count="240" type="cond" truecount="1" falsecount="0"/>
+        <line num="16" count="64" type="cond" truecount="4" falsecount="0"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="20" count="62" type="stmt"/>
+        <line num="22" count="240" type="stmt"/>
+        <line num="24" count="580" type="stmt"/>
+        <line num="30" count="580" type="stmt"/>
+      </file>
+      <file name="useField.js" path="C:\Users\Reisel_Rol_7\Desktop\Todas las Carpetas\TravelPort\Intern\Proyectos\React - 04 (Formulario) (Vite) (Solucion 1)\Formulario\src\customHooks\useField.js">
+        <metrics statements="38" coveredstatements="36" conditionals="16" coveredconditionals="14" methods="5" coveredmethods="5"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="580" type="cond" truecount="2" falsecount="0"/>
+        <line num="5" count="580" type="stmt"/>
+        <line num="6" count="580" type="stmt"/>
+        <line num="7" count="580" type="stmt"/>
+        <line num="8" count="580" type="stmt"/>
+        <line num="9" count="580" type="stmt"/>
+        <line num="10" count="122" type="stmt"/>
+        <line num="11" count="122" type="stmt"/>
+        <line num="12" count="122" type="cond" truecount="2" falsecount="0"/>
+        <line num="13" count="100" type="stmt"/>
+        <line num="14" count="100" type="stmt"/>
+        <line num="17" count="22" type="cond" truecount="1" falsecount="0"/>
+        <line num="18" count="22" type="cond" truecount="1" falsecount="0"/>
+        <line num="19" count="9" type="cond" truecount="3" falsecount="0"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="25" count="122" type="stmt"/>
+        <line num="26" count="122" type="stmt"/>
+        <line num="28" count="580" type="stmt"/>
+        <line num="29" count="7" type="stmt"/>
+        <line num="30" count="7" type="stmt"/>
+        <line num="31" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="32" count="5" type="stmt"/>
+        <line num="33" count="5" type="stmt"/>
+        <line num="36" count="2" type="cond" truecount="0" falsecount="1"/>
+        <line num="37" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="38" count="2" type="cond" truecount="2" falsecount="1"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="44" count="7" type="stmt"/>
+        <line num="45" count="7" type="stmt"/>
+        <line num="47" count="580" type="stmt"/>
+        <line num="48" count="21" type="stmt"/>
+        <line num="50" count="580" type="stmt"/>
+        <line num="51" count="580" type="stmt"/>
+        <line num="63" count="580" type="stmt"/>
+      </file>
+      <file name="useLocalization.js" path="C:\Users\Reisel_Rol_7\Desktop\Todas las Carpetas\TravelPort\Intern\Proyectos\React - 04 (Formulario) (Vite) (Solucion 1)\Formulario\src\customHooks\useLocalization.js">
+        <metrics statements="7" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="145" type="stmt"/>
+        <line num="5" count="145" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="8" count="145" type="stmt"/>
+        <line num="14" count="145" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

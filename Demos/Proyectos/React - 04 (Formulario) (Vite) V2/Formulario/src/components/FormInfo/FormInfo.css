@@ -1,0 +1,86 @@
+.UserFormBackground {
+    position: fixed;
+    z-index: -50;
+    top: 0%;
+    left: 0%;
+    padding: 0%;
+    width: 100%;
+    height: 100%;
+}
+.UserFormBackground img {
+    width: 100%;
+    height: 100%;
+    z-index: -51;
+    filter: blur(2px) brightness(0.75);
+}
+.UserForm {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 50%;
+    height: auto;
+    background: linear-gradient(to bottom, #333, #666);
+    border: 4px solid #000;
+    border-radius: 10px;
+    box-shadow: 0 0 10000px rgb(0, 0, 0);
+}
+.UserForm h1 {
+    font-size: 25pt;
+    font-weight: bold;
+    text-align: center;
+    color: whitesmoke;
+    margin: 0;
+    padding: 1%;
+    border-bottom: solid 4px rgba(255, 255, 255, 0.581);
+    width: 98%;
+    border-radius: 10px;
+    height: 20%;
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.4));
+    text-shadow: 0 0 20px rgb(255, 255, 255);
+}
+.FormInputs {
+    margin: 3%;
+    padding: 3%;
+    height: auto;
+    width: 88%;
+    color: rgb(209, 209, 209);
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.4));
+    border-radius: 5%;
+}
+.FormInputs tr:hover {
+    background: linear-gradient(to bottom, rgba(30, 30, 30, 0.2), rgba(30, 30, 30, 0.4));
+}
+.tdLefted {
+    text-align: left;
+    padding-top: 2%;
+}
+.tdLefted font {
+    font-size: 18pt;
+    margin-left: 22%;
+    font-weight: bold;
+    text-shadow: 0 0 10px rgb(255, 255, 255);
+    border-bottom: solid 2px rgba(255, 255, 255, 0.581);
+    border-radius: 10px;
+}
+.tdRighted {
+    width: 50%;
+    text-align: right;
+    font-size: 12pt;
+    padding-left: 40%;
+    font-weight: bold;
+    text-shadow: 0 0 40px rgba(41, 2, 2, 0.975);
+    margin-bottom: 2%;
+}
+.tdRighted select {
+    width: 500%;
+    margin-top: 19%;
+    margin-left: -590%;
+}
+.FormInputs tr {
+    width: 100%;
+}
+.FormInputs table {
+    width: 100%;
+    height: 80%;
+}

@@ -1,0 +1,185 @@
+.UserFormBackground {
+    position: fixed;
+    z-index: -50;
+    top: 0%;
+    left: 0%;
+    padding: 0%;
+    width: 100%;
+    height: 100%;
+}
+.UserFormBackground img {
+    width: 100%;
+    height: 100%;
+    z-index: -51;
+    filter: blur(2px) brightness(0.75);
+}
+.UserForm {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 50%;
+    height: auto;
+    background: linear-gradient(to bottom, #333, #666);
+    border: 4px solid #000;
+    border-radius: 10px;
+    box-shadow: 0 0 10000px rgb(0, 0, 0);
+}
+.UserForm h1 {
+    font-size: 25pt;
+    font-weight: bold;
+    text-align: center;
+    color: whitesmoke;
+    margin: 0;
+    padding: 1%;
+    border-bottom: solid 4px rgba(255, 255, 255, 0.581);
+    width: 98%;
+    border-radius: 10px;
+    height: 20%;
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.4));
+    text-shadow: 0 0 20px rgb(255, 255, 255);
+}
+.FormInputs {
+    margin: 3%;
+    padding: 3%;
+    height: auto;
+    width: 88%;
+    color: rgb(209, 209, 209);
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.4));
+    border-radius: 5%;
+}
+.FormInputs tr:hover {
+    background: linear-gradient(to bottom, rgba(30, 30, 30, 0.2), rgba(30, 30, 30, 0.4));
+}
+.tdLefted {
+    text-align: left;
+    padding-top: 2%;
+}
+.tdLefted font {
+    font-size: 18pt;
+    margin-left: 22%;
+    font-weight: bold;
+    text-shadow: 0 0 10px rgb(255, 255, 255);
+    border-bottom: solid 2px rgba(255, 255, 255, 0.581);
+    border-radius: 10px;
+}
+.tdRighted {
+    width: 50%;
+    text-align: right;
+    font-size: 12pt;
+    padding-left: 40%;
+    font-weight: bold;
+    text-shadow: 0 0 40px rgba(41, 2, 2, 0.975);
+    margin-bottom: 2%;
+}
+.tdRighted input {
+    width: 500%;
+    margin-top: 19%;
+    margin-left: -590%;
+    height: 50%;
+}
+.tdRighted select {
+    width: 500%;
+    height: 55%;
+    text-align: center;
+    margin-top: 19%;
+    margin-left: -590%;
+}
+.FormInputs tr {
+    width: 100%;
+}
+.FormInputs table {
+    width: 100%;
+    height: 80%;
+}
+.inputError {
+    border: solid 3px rgb(255, 55, 55);
+    background-color: rgb(255, 171, 171);
+    border-radius: 4px;
+}
+.buttonsDiv {
+    text-align: center;
+}
+.buttonsDiv button{
+    background: linear-gradient(to top, rgb(186, 186, 186), rgb(137, 137, 137));
+    width: 15%;
+    height: 10%;
+    margin-right: 15%;
+    margin-left: 15%;
+    margin-bottom: 1.5%;
+    border-radius: 10px;
+    font-size: 15pt;
+}
+.buttonsDiv button:hover {
+    background: linear-gradient(to top, rgb(216, 216, 216), rgb(167, 167, 167));
+    width: 15%;
+    height: 10%;
+    margin-right: 15%;
+    margin-left: 15%;
+    margin-bottom: 1.5%;
+    border-radius: 10px;
+}
+.buttonsDiv button:active {
+    background: linear-gradient(to top, rgb(246, 246, 246), rgb(197, 197, 197));
+    width: 15%;
+    height: 10%;
+    margin-right: 15%;
+    margin-left: 15%;
+    margin-bottom: 1.5%;
+    border-radius: 10px;
+}
+
+#clearButton{
+    background: linear-gradient(to top, rgb(255, 0, 0), rgb(166, 0, 0));
+    width: 15%;
+    height: 10%;
+    margin-right: 15%;
+    margin-left: 15%;
+    margin-bottom: 1.5%;
+    border-radius: 10px;
+}
+#clearButton:hover {
+    background: linear-gradient(to top, rgb(255, 40, 40), rgb(199, 1, 1));
+    width: 15%;
+    height: 10%;
+    margin-right: 15%;
+    margin-left: 15%;
+    margin-bottom: 1.5%;
+    border-radius: 10px;
+}
+#clearButton:active {
+    background: linear-gradient(to top, rgb(255, 86, 86), rgb(237, 0, 0));
+    width: 15%;
+    height: 10%;
+    margin-right: 15%;
+    margin-left: 15%;
+    margin-bottom: 1.5%;
+    border-radius: 10px;
+}
+#toSubmit{
+    background: linear-gradient(to top, rgb(55, 255, 0), rgb(47, 166, 0));
+    width: 15%;
+    height: 10%;
+    margin-right: 15%;
+    margin-left: 15%;
+    margin-bottom: 1.5%;
+    border-radius: 10px;
+}
+#toSubmit:hover {
+    background: linear-gradient(to top, rgb(76, 255, 40), rgb(34, 199, 1));
+    width: 15%;
+    height: 10%;
+    margin-right: 15%;
+    margin-left: 15%;
+    margin-bottom: 1.5%;
+    border-radius: 10px;
+}
+#toSubmit:active {
+    background: linear-gradient(to top, rgb(108, 255, 86), rgb(39, 237, 0));
+    width: 15%;
+    height: 10%;
+    margin-right: 15%;
+    margin-left: 15%;
+    margin-bottom: 1.5%;
+    border-radius: 10px;
+}
