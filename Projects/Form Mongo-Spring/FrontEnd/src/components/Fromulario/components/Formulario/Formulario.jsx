@@ -58,7 +58,7 @@ export function Formulario({ FormName, BackgroundImgSrc }) {
                 personal: {
                     name: Inputs[IName.Name].Value,
                     surname: Inputs[IName.Surame].Value,
-                    country: Inputs[IName.Country].Value,
+                    country: Inputs[IName.Country].Value.toUpperCase(),
                     dni: Inputs[IName.Id].Value
                 }
             };
