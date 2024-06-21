@@ -16,6 +16,24 @@ This repository contains the dual practice project "Travelport," developed using
 - **TypeScript and JavaScript**: Strong typing and dynamic functionalities.
 - **Testing**: Unit and integration tests to ensure robustness.
 
+## Screenshoots
+
+### Calculator
+
+![Calculator](./images/Calculator.jpeg)
+
+### Tic Tac Toe
+
+![TicTacToe](./images/TicTacToe.jpeg)
+
+### Minesweeper 
+
+![Minesweeper](./images/Minesweeper.jpeg)
+
+### Form
+
+![Form](./images/Form.jpeg)
+
 ## Installation
 
 1. Clone the repository:
